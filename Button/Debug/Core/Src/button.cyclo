@@ -1,0 +1,4 @@
+button.c:19:5:isButton1Pressed	2
+button.c:27:5:isButton1LongPressed	2
+button.c:35:6:subKeyProcess	1
+button.c:40:6:getKeyInput	7
